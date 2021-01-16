@@ -5,5 +5,6 @@ Andrés Osorio tiene 22 años y nacio en Colombia
 Anita Platzi es un nuevo colaborador del proyecto 
 y tiene 21 años.
 Se hizo corrección del usuairo para el colaborador por segunda vez
+Se prueba de nuevo la configuración del colaborador.
 
 Mañana nos enfocaremos en su vida laboral.
